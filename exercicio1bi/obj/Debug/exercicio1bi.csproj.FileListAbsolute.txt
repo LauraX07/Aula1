@@ -1,0 +1,10 @@
+F:\2A-DS-PI\Laura e Tiago\DS\Visual\exercicio1bi\exercicio1bi\bin\Debug\exercicio1bi.exe.config
+F:\2A-DS-PI\Laura e Tiago\DS\Visual\exercicio1bi\exercicio1bi\bin\Debug\exercicio1bi.exe
+F:\2A-DS-PI\Laura e Tiago\DS\Visual\exercicio1bi\exercicio1bi\bin\Debug\exercicio1bi.pdb
+F:\2A-DS-PI\Laura e Tiago\DS\Visual\exercicio1bi\exercicio1bi\obj\Debug\exercicio1bi.csproj.AssemblyReference.cache
+F:\2A-DS-PI\Laura e Tiago\DS\Visual\exercicio1bi\exercicio1bi\obj\Debug\exercicio1bi.frmex1.resources
+F:\2A-DS-PI\Laura e Tiago\DS\Visual\exercicio1bi\exercicio1bi\obj\Debug\exercicio1bi.Properties.Resources.resources
+F:\2A-DS-PI\Laura e Tiago\DS\Visual\exercicio1bi\exercicio1bi\obj\Debug\exercicio1bi.csproj.GenerateResource.cache
+F:\2A-DS-PI\Laura e Tiago\DS\Visual\exercicio1bi\exercicio1bi\obj\Debug\exercicio1bi.csproj.CoreCompileInputs.cache
+F:\2A-DS-PI\Laura e Tiago\DS\Visual\exercicio1bi\exercicio1bi\obj\Debug\exercicio1bi.exe
+F:\2A-DS-PI\Laura e Tiago\DS\Visual\exercicio1bi\exercicio1bi\obj\Debug\exercicio1bi.pdb
