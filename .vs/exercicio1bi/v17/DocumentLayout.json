@@ -1,13 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\2A-DS-PI\\Laura e Tiago\\DS\\Visual\\exercicio1bi\\",
+  "WorkspaceRootPath": "F:\\2A-DS-PI\\Laura e Tiago\\DS\\Visual\\projeto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FD39A8F-1761-418D-ABC0-4B4859101FC7}|exercicio1bi\\exercicio1bi.csproj|f:\\2a-ds-pi\\laura e tiago\\ds\\visual\\exercicio1bi\\exercicio1bi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1FD39A8F-1761-418D-ABC0-4B4859101FC7}|exercicio1bi\\exercicio1bi.csproj|f:\\2a-ds-pi\\laura e tiago\\ds\\visual\\projeto\\exercicio1bi\\frmex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FD39A8F-1761-418D-ABC0-4B4859101FC7}|exercicio1bi\\exercicio1bi.csproj|solutionrelative:exercicio1bi\\frmex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD39A8F-1761-418D-ABC0-4B4859101FC7}|exercicio1bi\\exercicio1bi.csproj|f:\\2a-ds-pi\\laura e tiago\\ds\\visual\\projeto\\exercicio1bi\\frmex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FD39A8F-1761-418D-ABC0-4B4859101FC7}|exercicio1bi\\exercicio1bi.csproj|solutionrelative:exercicio1bi\\frmex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FD39A8F-1761-418D-ABC0-4B4859101FC7}|exercicio1bi\\exercicio1bi.csproj|f:\\2a-ds-pi\\laura e tiago\\ds\\visual\\projeto\\exercicio1bi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FD39A8F-1761-418D-ABC0-4B4859101FC7}|exercicio1bi\\exercicio1bi.csproj|solutionrelative:exercicio1bi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1FD39A8F-1761-418D-ABC0-4B4859101FC7}|exercicio1bi\\exercicio1bi.csproj|F:\\2A-DS-PI\\Laura e Tiago\\DS\\Visual\\exercicio1bi\\exercicio1bi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1FD39A8F-1761-418D-ABC0-4B4859101FC7}|exercicio1bi\\exercicio1bi.csproj|F:\\2A-DS-PI\\Laura e Tiago\\DS\\Visual\\projeto\\exercicio1bi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1FD39A8F-1761-418D-ABC0-4B4859101FC7}|exercicio1bi\\exercicio1bi.csproj|solutionrelative:exercicio1bi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -23,12 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "frmex2.cs",
+              "DocumentMoniker": "F:\\2A-DS-PI\\Laura e Tiago\\DS\\Visual\\projeto\\exercicio1bi\\frmex2.cs",
+              "RelativeDocumentMoniker": "exercicio1bi\\frmex2.cs",
+              "ToolTip": "F:\\2A-DS-PI\\Laura e Tiago\\DS\\Visual\\projeto\\exercicio1bi\\frmex2.cs",
+              "RelativeToolTip": "exercicio1bi\\frmex2.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwB8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T13:33:06.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
-              "DocumentMoniker": "F:\\2A-DS-PI\\Laura e Tiago\\DS\\Visual\\exercicio1bi\\exercicio1bi\\Form1.cs",
+              "DocumentMoniker": "F:\\2A-DS-PI\\Laura e Tiago\\DS\\Visual\\projeto\\exercicio1bi\\Form1.cs",
               "RelativeDocumentMoniker": "exercicio1bi\\Form1.cs",
-              "ToolTip": "F:\\2A-DS-PI\\Laura e Tiago\\DS\\Visual\\exercicio1bi\\exercicio1bi\\Form1.cs",
+              "ToolTip": "F:\\2A-DS-PI\\Laura e Tiago\\DS\\Visual\\projeto\\exercicio1bi\\Form1.cs",
               "RelativeToolTip": "exercicio1bi\\Form1.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T11:27:01.533Z",
               "EditorCaption": ""
@@ -36,14 +57,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "frmex2.cs [Design]",
+              "DocumentMoniker": "F:\\2A-DS-PI\\Laura e Tiago\\DS\\Visual\\projeto\\exercicio1bi\\frmex2.cs",
+              "RelativeDocumentMoniker": "exercicio1bi\\frmex2.cs",
+              "ToolTip": "F:\\2A-DS-PI\\Laura e Tiago\\DS\\Visual\\projeto\\exercicio1bi\\frmex2.cs [Design]",
+              "RelativeToolTip": "exercicio1bi\\frmex2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T13:23:43.945Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "F:\\2A-DS-PI\\Laura e Tiago\\DS\\Visual\\exercicio1bi\\exercicio1bi\\Form1.cs",
+              "DocumentMoniker": "F:\\2A-DS-PI\\Laura e Tiago\\DS\\Visual\\projeto\\exercicio1bi\\Form1.cs",
               "RelativeDocumentMoniker": "exercicio1bi\\Form1.cs",
               "ToolTip": "F:\\2A-DS-PI\\Laura e Tiago\\DS\\Visual\\exercicio1bi\\exercicio1bi\\Form1.cs [Design]",
-              "RelativeToolTip": "exercicio1bi\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\exercicio1bi\\exercicio1bi\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T11:23:19.173Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-20T11:23:19.173Z"
             }
           ]
         }
