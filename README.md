@@ -1,7 +1,21 @@
-< img src= "https://github.com/user-attachments/assets/2fe70eb5-a9ba-4200-b8d6-611d9643b53b">
-< img src= "https://github.com/user-attachments/assets/91aaf0aa-7e3f-4b93-924c-2fa9f1b3a484">
-< img src= "https://github.com/user-attachments/assets/8cb81db1-2ca0-40fd-b722-9fb536ad34d6">
-< img src= "https://github.com/user-attachments/assets/bb7bd01a-5fe4-42b8-a8f2-fca7d44291e8">
+Laura Valentni Xavier da Silva
+Tiago de Brito Valente
+
+[Print 1]
+
+![Captura de tela 2025-03-28 090842](https://github.com/user-attachments/assets/aed911a7-7344-4b0c-8a50-38ecf7e74981)
+
+[Print 2]
+
+![Captura de tela 2025-03-28 090913](https://github.com/user-attachments/assets/b22dc5af-628c-4b0b-a563-d725a332da44)
+
+[Print 3]
+
+![Captura de tela 2025-03-28 090932](https://github.com/user-attachments/assets/85cf51fb-a21b-44be-9c61-ca5aa73681cd)
+
+[Print 4]
+
+![Captura de tela 2025-03-28 090956](https://github.com/user-attachments/assets/0fb77f9c-9cf2-46de-9780-2cc342f553d0)
 
 De acordo com o print 1:
 Primeiro comando dado foi o git init para iniciar o repositório local. Após utilizamos os git config para verificar se há algum nome ou email já configurados, 
